@@ -1,5 +1,5 @@
 require 'base64'
-require 'iconv'
+#require 'iconv'
 require 'openssl'
 
 module Ipizza
